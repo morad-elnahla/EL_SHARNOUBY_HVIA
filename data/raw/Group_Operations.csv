@@ -1,0 +1,181 @@
+﻿Month,Business_Unit,Primary_KPI,Volume,Operational_Efficiency_Pct,Open_Issues_Count,Data_Class
+2023-10-01,LEO DESIGN,Designs_Completed,48,85.1,2,Modeled monthly operational summary using public business-unit structure
+2023-10-01,LEO TEX,Fabric_Meters,129278,91.5,6,Modeled monthly operational summary using public business-unit structure
+2023-10-01,LEO PRODUCTION HUB,Garments_Produced,78490,88.5,9,Modeled monthly operational summary using public business-unit structure
+2023-10-01,LEO PRINT,Print_Units,70454,86.7,1,Modeled monthly operational summary using public business-unit structure
+2023-10-01,LEO MODA,Sales_Units,36484,87.6,1,Modeled monthly operational summary using public business-unit structure
+2023-11-01,LEO DESIGN,Designs_Completed,72,77.8,0,Modeled monthly operational summary using public business-unit structure
+2023-11-01,LEO TEX,Fabric_Meters,153091,86.4,0,Modeled monthly operational summary using public business-unit structure
+2023-11-01,LEO PRODUCTION HUB,Garments_Produced,39649,83.5,5,Modeled monthly operational summary using public business-unit structure
+2023-11-01,LEO PRINT,Print_Units,152522,84.1,7,Modeled monthly operational summary using public business-unit structure
+2023-11-01,LEO MODA,Sales_Units,40007,90.7,0,Modeled monthly operational summary using public business-unit structure
+2023-12-01,LEO DESIGN,Designs_Completed,46,86.2,0,Modeled monthly operational summary using public business-unit structure
+2023-12-01,LEO TEX,Fabric_Meters,119908,89.8,5,Modeled monthly operational summary using public business-unit structure
+2023-12-01,LEO PRODUCTION HUB,Garments_Produced,93212,82.5,6,Modeled monthly operational summary using public business-unit structure
+2023-12-01,LEO PRINT,Print_Units,138986,87.1,5,Modeled monthly operational summary using public business-unit structure
+2023-12-01,LEO MODA,Sales_Units,45928,90.9,3,Modeled monthly operational summary using public business-unit structure
+2024-01-01,LEO DESIGN,Designs_Completed,66,80.2,4,Modeled monthly operational summary using public business-unit structure
+2024-01-01,LEO TEX,Fabric_Meters,160470,85.3,6,Modeled monthly operational summary using public business-unit structure
+2024-01-01,LEO PRODUCTION HUB,Garments_Produced,106456,86.6,9,Modeled monthly operational summary using public business-unit structure
+2024-01-01,LEO PRINT,Print_Units,123265,91.1,0,Modeled monthly operational summary using public business-unit structure
+2024-01-01,LEO MODA,Sales_Units,34495,89.2,6,Modeled monthly operational summary using public business-unit structure
+2024-02-01,LEO DESIGN,Designs_Completed,53,82.9,2,Modeled monthly operational summary using public business-unit structure
+2024-02-01,LEO TEX,Fabric_Meters,98874,87.0,3,Modeled monthly operational summary using public business-unit structure
+2024-02-01,LEO PRODUCTION HUB,Garments_Produced,95141,96.7,1,Modeled monthly operational summary using public business-unit structure
+2024-02-01,LEO PRINT,Print_Units,128122,84.6,0,Modeled monthly operational summary using public business-unit structure
+2024-02-01,LEO MODA,Sales_Units,32923,89.1,5,Modeled monthly operational summary using public business-unit structure
+2024-03-01,LEO DESIGN,Designs_Completed,65,74.4,7,Modeled monthly operational summary using public business-unit structure
+2024-03-01,LEO TEX,Fabric_Meters,112919,88.8,4,Modeled monthly operational summary using public business-unit structure
+2024-03-01,LEO PRODUCTION HUB,Garments_Produced,105643,82.8,10,Modeled monthly operational summary using public business-unit structure
+2024-03-01,LEO PRINT,Print_Units,163295,84.9,4,Modeled monthly operational summary using public business-unit structure
+2024-03-01,LEO MODA,Sales_Units,40500,85.6,2,Modeled monthly operational summary using public business-unit structure
+2024-04-01,LEO DESIGN,Designs_Completed,70,81.6,1,Modeled monthly operational summary using public business-unit structure
+2024-04-01,LEO TEX,Fabric_Meters,110520,83.2,5,Modeled monthly operational summary using public business-unit structure
+2024-04-01,LEO PRODUCTION HUB,Garments_Produced,93182,89.3,5,Modeled monthly operational summary using public business-unit structure
+2024-04-01,LEO PRINT,Print_Units,176534,80.3,0,Modeled monthly operational summary using public business-unit structure
+2024-04-01,LEO MODA,Sales_Units,46938,93.4,1,Modeled monthly operational summary using public business-unit structure
+2024-05-01,LEO DESIGN,Designs_Completed,46,83.7,4,Modeled monthly operational summary using public business-unit structure
+2024-05-01,LEO TEX,Fabric_Meters,106586,89.7,5,Modeled monthly operational summary using public business-unit structure
+2024-05-01,LEO PRODUCTION HUB,Garments_Produced,118603,89.6,9,Modeled monthly operational summary using public business-unit structure
+2024-05-01,LEO PRINT,Print_Units,112467,89.7,0,Modeled monthly operational summary using public business-unit structure
+2024-05-01,LEO MODA,Sales_Units,46803,92.6,0,Modeled monthly operational summary using public business-unit structure
+2024-06-01,LEO DESIGN,Designs_Completed,65,91.3,3,Modeled monthly operational summary using public business-unit structure
+2024-06-01,LEO TEX,Fabric_Meters,136467,92.6,4,Modeled monthly operational summary using public business-unit structure
+2024-06-01,LEO PRODUCTION HUB,Garments_Produced,91222,79.5,9,Modeled monthly operational summary using public business-unit structure
+2024-06-01,LEO PRINT,Print_Units,85216,95.7,3,Modeled monthly operational summary using public business-unit structure
+2024-06-01,LEO MODA,Sales_Units,48357,85.5,0,Modeled monthly operational summary using public business-unit structure
+2024-07-01,LEO DESIGN,Designs_Completed,87,89.3,3,Modeled monthly operational summary using public business-unit structure
+2024-07-01,LEO TEX,Fabric_Meters,114934,91.8,6,Modeled monthly operational summary using public business-unit structure
+2024-07-01,LEO PRODUCTION HUB,Garments_Produced,94745,85.6,3,Modeled monthly operational summary using public business-unit structure
+2024-07-01,LEO PRINT,Print_Units,137168,86.3,6,Modeled monthly operational summary using public business-unit structure
+2024-07-01,LEO MODA,Sales_Units,52210,88.2,0,Modeled monthly operational summary using public business-unit structure
+2024-08-01,LEO DESIGN,Designs_Completed,70,88.3,6,Modeled monthly operational summary using public business-unit structure
+2024-08-01,LEO TEX,Fabric_Meters,138376,98.0,4,Modeled monthly operational summary using public business-unit structure
+2024-08-01,LEO PRODUCTION HUB,Garments_Produced,87571,81.6,6,Modeled monthly operational summary using public business-unit structure
+2024-08-01,LEO PRINT,Print_Units,108159,85.2,4,Modeled monthly operational summary using public business-unit structure
+2024-08-01,LEO MODA,Sales_Units,47810,88.3,5,Modeled monthly operational summary using public business-unit structure
+2024-09-01,LEO DESIGN,Designs_Completed,72,83.4,2,Modeled monthly operational summary using public business-unit structure
+2024-09-01,LEO TEX,Fabric_Meters,160827,86.9,5,Modeled monthly operational summary using public business-unit structure
+2024-09-01,LEO PRODUCTION HUB,Garments_Produced,91378,89.2,7,Modeled monthly operational summary using public business-unit structure
+2024-09-01,LEO PRINT,Print_Units,108151,80.3,6,Modeled monthly operational summary using public business-unit structure
+2024-09-01,LEO MODA,Sales_Units,38090,89.6,3,Modeled monthly operational summary using public business-unit structure
+2024-10-01,LEO DESIGN,Designs_Completed,59,96.1,0,Modeled monthly operational summary using public business-unit structure
+2024-10-01,LEO TEX,Fabric_Meters,185997,84.3,6,Modeled monthly operational summary using public business-unit structure
+2024-10-01,LEO PRODUCTION HUB,Garments_Produced,91263,81.1,5,Modeled monthly operational summary using public business-unit structure
+2024-10-01,LEO PRINT,Print_Units,147174,94.6,6,Modeled monthly operational summary using public business-unit structure
+2024-10-01,LEO MODA,Sales_Units,41744,92.8,5,Modeled monthly operational summary using public business-unit structure
+2024-11-01,LEO DESIGN,Designs_Completed,39,96.6,1,Modeled monthly operational summary using public business-unit structure
+2024-11-01,LEO TEX,Fabric_Meters,140386,93.0,2,Modeled monthly operational summary using public business-unit structure
+2024-11-01,LEO PRODUCTION HUB,Garments_Produced,77203,85.6,9,Modeled monthly operational summary using public business-unit structure
+2024-11-01,LEO PRINT,Print_Units,115978,89.2,8,Modeled monthly operational summary using public business-unit structure
+2024-11-01,LEO MODA,Sales_Units,44971,96.3,4,Modeled monthly operational summary using public business-unit structure
+2024-12-01,LEO DESIGN,Designs_Completed,65,79.0,6,Modeled monthly operational summary using public business-unit structure
+2024-12-01,LEO TEX,Fabric_Meters,115490,92.6,4,Modeled monthly operational summary using public business-unit structure
+2024-12-01,LEO PRODUCTION HUB,Garments_Produced,109525,86.9,7,Modeled monthly operational summary using public business-unit structure
+2024-12-01,LEO PRINT,Print_Units,141097,87.1,3,Modeled monthly operational summary using public business-unit structure
+2024-12-01,LEO MODA,Sales_Units,54461,91.2,3,Modeled monthly operational summary using public business-unit structure
+2025-01-01,LEO DESIGN,Designs_Completed,85,86.9,3,Modeled monthly operational summary using public business-unit structure
+2025-01-01,LEO TEX,Fabric_Meters,112960,94.4,5,Modeled monthly operational summary using public business-unit structure
+2025-01-01,LEO PRODUCTION HUB,Garments_Produced,62245,88.4,2,Modeled monthly operational summary using public business-unit structure
+2025-01-01,LEO PRINT,Print_Units,161283,97.4,1,Modeled monthly operational summary using public business-unit structure
+2025-01-01,LEO MODA,Sales_Units,38937,92.8,3,Modeled monthly operational summary using public business-unit structure
+2025-02-01,LEO DESIGN,Designs_Completed,79,86.4,5,Modeled monthly operational summary using public business-unit structure
+2025-02-01,LEO TEX,Fabric_Meters,82391,93.4,6,Modeled monthly operational summary using public business-unit structure
+2025-02-01,LEO PRODUCTION HUB,Garments_Produced,77034,83.6,1,Modeled monthly operational summary using public business-unit structure
+2025-02-01,LEO PRINT,Print_Units,57484,89.6,2,Modeled monthly operational summary using public business-unit structure
+2025-02-01,LEO MODA,Sales_Units,32725,92.8,4,Modeled monthly operational summary using public business-unit structure
+2025-03-01,LEO DESIGN,Designs_Completed,59,77.6,4,Modeled monthly operational summary using public business-unit structure
+2025-03-01,LEO TEX,Fabric_Meters,139701,82.1,4,Modeled monthly operational summary using public business-unit structure
+2025-03-01,LEO PRODUCTION HUB,Garments_Produced,51991,89.8,2,Modeled monthly operational summary using public business-unit structure
+2025-03-01,LEO PRINT,Print_Units,141930,79.1,3,Modeled monthly operational summary using public business-unit structure
+2025-03-01,LEO MODA,Sales_Units,44273,89.1,4,Modeled monthly operational summary using public business-unit structure
+2025-04-01,LEO DESIGN,Designs_Completed,78,92.3,7,Modeled monthly operational summary using public business-unit structure
+2025-04-01,LEO TEX,Fabric_Meters,167030,86.9,2,Modeled monthly operational summary using public business-unit structure
+2025-04-01,LEO PRODUCTION HUB,Garments_Produced,100093,80.9,10,Modeled monthly operational summary using public business-unit structure
+2025-04-01,LEO PRINT,Print_Units,111288,91.2,6,Modeled monthly operational summary using public business-unit structure
+2025-04-01,LEO MODA,Sales_Units,50780,84.4,4,Modeled monthly operational summary using public business-unit structure
+2025-05-01,LEO DESIGN,Designs_Completed,64,87.2,6,Modeled monthly operational summary using public business-unit structure
+2025-05-01,LEO TEX,Fabric_Meters,141186,86.0,1,Modeled monthly operational summary using public business-unit structure
+2025-05-01,LEO PRODUCTION HUB,Garments_Produced,67402,76.8,7,Modeled monthly operational summary using public business-unit structure
+2025-05-01,LEO PRINT,Print_Units,150746,84.7,8,Modeled monthly operational summary using public business-unit structure
+2025-05-01,LEO MODA,Sales_Units,54290,90.4,6,Modeled monthly operational summary using public business-unit structure
+2025-06-01,LEO DESIGN,Designs_Completed,78,81.2,6,Modeled monthly operational summary using public business-unit structure
+2025-06-01,LEO TEX,Fabric_Meters,107662,98.0,0,Modeled monthly operational summary using public business-unit structure
+2025-06-01,LEO PRODUCTION HUB,Garments_Produced,68629,90.7,3,Modeled monthly operational summary using public business-unit structure
+2025-06-01,LEO PRINT,Print_Units,132679,79.9,6,Modeled monthly operational summary using public business-unit structure
+2025-06-01,LEO MODA,Sales_Units,52126,91.0,1,Modeled monthly operational summary using public business-unit structure
+2025-07-01,LEO DESIGN,Designs_Completed,60,77.5,3,Modeled monthly operational summary using public business-unit structure
+2025-07-01,LEO TEX,Fabric_Meters,134065,80.7,2,Modeled monthly operational summary using public business-unit structure
+2025-07-01,LEO PRODUCTION HUB,Garments_Produced,74303,88.3,9,Modeled monthly operational summary using public business-unit structure
+2025-07-01,LEO PRINT,Print_Units,122538,76.0,6,Modeled monthly operational summary using public business-unit structure
+2025-07-01,LEO MODA,Sales_Units,55348,87.5,5,Modeled monthly operational summary using public business-unit structure
+2025-08-01,LEO DESIGN,Designs_Completed,45,87.1,1,Modeled monthly operational summary using public business-unit structure
+2025-08-01,LEO TEX,Fabric_Meters,127016,76.2,2,Modeled monthly operational summary using public business-unit structure
+2025-08-01,LEO PRODUCTION HUB,Garments_Produced,133862,82.6,3,Modeled monthly operational summary using public business-unit structure
+2025-08-01,LEO PRINT,Print_Units,132010,90.0,8,Modeled monthly operational summary using public business-unit structure
+2025-08-01,LEO MODA,Sales_Units,54648,90.7,0,Modeled monthly operational summary using public business-unit structure
+2025-09-01,LEO DESIGN,Designs_Completed,50,81.8,2,Modeled monthly operational summary using public business-unit structure
+2025-09-01,LEO TEX,Fabric_Meters,137852,81.4,6,Modeled monthly operational summary using public business-unit structure
+2025-09-01,LEO PRODUCTION HUB,Garments_Produced,100639,86.0,7,Modeled monthly operational summary using public business-unit structure
+2025-09-01,LEO PRINT,Print_Units,132856,92.8,9,Modeled monthly operational summary using public business-unit structure
+2025-09-01,LEO MODA,Sales_Units,41569,88.2,2,Modeled monthly operational summary using public business-unit structure
+2025-10-01,LEO DESIGN,Designs_Completed,83,84.5,4,Modeled monthly operational summary using public business-unit structure
+2025-10-01,LEO TEX,Fabric_Meters,114514,93.6,2,Modeled monthly operational summary using public business-unit structure
+2025-10-01,LEO PRODUCTION HUB,Garments_Produced,72611,83.3,3,Modeled monthly operational summary using public business-unit structure
+2025-10-01,LEO PRINT,Print_Units,124931,86.6,0,Modeled monthly operational summary using public business-unit structure
+2025-10-01,LEO MODA,Sales_Units,37453,87.1,6,Modeled monthly operational summary using public business-unit structure
+2025-11-01,LEO DESIGN,Designs_Completed,81,81.1,6,Modeled monthly operational summary using public business-unit structure
+2025-11-01,LEO TEX,Fabric_Meters,115725,91.9,4,Modeled monthly operational summary using public business-unit structure
+2025-11-01,LEO PRODUCTION HUB,Garments_Produced,102706,85.7,8,Modeled monthly operational summary using public business-unit structure
+2025-11-01,LEO PRINT,Print_Units,150328,92.9,1,Modeled monthly operational summary using public business-unit structure
+2025-11-01,LEO MODA,Sales_Units,42307,85.3,6,Modeled monthly operational summary using public business-unit structure
+2025-12-01,LEO DESIGN,Designs_Completed,57,92.7,2,Modeled monthly operational summary using public business-unit structure
+2025-12-01,LEO TEX,Fabric_Meters,124737,83.1,4,Modeled monthly operational summary using public business-unit structure
+2025-12-01,LEO PRODUCTION HUB,Garments_Produced,116790,80.3,2,Modeled monthly operational summary using public business-unit structure
+2025-12-01,LEO PRINT,Print_Units,189416,98.0,3,Modeled monthly operational summary using public business-unit structure
+2025-12-01,LEO MODA,Sales_Units,58762,96.3,1,Modeled monthly operational summary using public business-unit structure
+2026-01-01,LEO DESIGN,Designs_Completed,74,83.7,0,Modeled monthly operational summary using public business-unit structure
+2026-01-01,LEO TEX,Fabric_Meters,102272,94.7,5,Modeled monthly operational summary using public business-unit structure
+2026-01-01,LEO PRODUCTION HUB,Garments_Produced,73232,82.5,7,Modeled monthly operational summary using public business-unit structure
+2026-01-01,LEO PRINT,Print_Units,143233,77.3,4,Modeled monthly operational summary using public business-unit structure
+2026-01-01,LEO MODA,Sales_Units,40138,90.3,4,Modeled monthly operational summary using public business-unit structure
+2026-02-01,LEO DESIGN,Designs_Completed,91,89.5,5,Modeled monthly operational summary using public business-unit structure
+2026-02-01,LEO TEX,Fabric_Meters,138888,87.5,0,Modeled monthly operational summary using public business-unit structure
+2026-02-01,LEO PRODUCTION HUB,Garments_Produced,147346,78.8,8,Modeled monthly operational summary using public business-unit structure
+2026-02-01,LEO PRINT,Print_Units,126614,73.5,8,Modeled monthly operational summary using public business-unit structure
+2026-02-01,LEO MODA,Sales_Units,35362,85.1,4,Modeled monthly operational summary using public business-unit structure
+2026-03-01,LEO DESIGN,Designs_Completed,52,79.8,5,Modeled monthly operational summary using public business-unit structure
+2026-03-01,LEO TEX,Fabric_Meters,110836,82.3,0,Modeled monthly operational summary using public business-unit structure
+2026-03-01,LEO PRODUCTION HUB,Garments_Produced,105131,82.9,6,Modeled monthly operational summary using public business-unit structure
+2026-03-01,LEO PRINT,Print_Units,180545,85.0,0,Modeled monthly operational summary using public business-unit structure
+2026-03-01,LEO MODA,Sales_Units,48201,94.4,5,Modeled monthly operational summary using public business-unit structure
+2026-04-01,LEO DESIGN,Designs_Completed,46,81.8,7,Modeled monthly operational summary using public business-unit structure
+2026-04-01,LEO TEX,Fabric_Meters,113037,95.3,5,Modeled monthly operational summary using public business-unit structure
+2026-04-01,LEO PRODUCTION HUB,Garments_Produced,74623,93.1,5,Modeled monthly operational summary using public business-unit structure
+2026-04-01,LEO PRINT,Print_Units,151826,82.9,8,Modeled monthly operational summary using public business-unit structure
+2026-04-01,LEO MODA,Sales_Units,50135,85.9,1,Modeled monthly operational summary using public business-unit structure
+2026-05-01,LEO DESIGN,Designs_Completed,72,88.6,3,Modeled monthly operational summary using public business-unit structure
+2026-05-01,LEO TEX,Fabric_Meters,122732,89.4,3,Modeled monthly operational summary using public business-unit structure
+2026-05-01,LEO PRODUCTION HUB,Garments_Produced,105505,81.3,10,Modeled monthly operational summary using public business-unit structure
+2026-05-01,LEO PRINT,Print_Units,157178,74.4,7,Modeled monthly operational summary using public business-unit structure
+2026-05-01,LEO MODA,Sales_Units,57685,85.5,3,Modeled monthly operational summary using public business-unit structure
+2026-06-01,LEO DESIGN,Designs_Completed,81,96.6,3,Modeled monthly operational summary using public business-unit structure
+2026-06-01,LEO TEX,Fabric_Meters,133336,88.6,6,Modeled monthly operational summary using public business-unit structure
+2026-06-01,LEO PRODUCTION HUB,Garments_Produced,81847,96.9,8,Modeled monthly operational summary using public business-unit structure
+2026-06-01,LEO PRINT,Print_Units,82030,88.4,1,Modeled monthly operational summary using public business-unit structure
+2026-06-01,LEO MODA,Sales_Units,56301,84.4,3,Modeled monthly operational summary using public business-unit structure
+2026-07-01,LEO DESIGN,Designs_Completed,85,85.1,1,Modeled monthly operational summary using public business-unit structure
+2026-07-01,LEO TEX,Fabric_Meters,148533,92.9,0,Modeled monthly operational summary using public business-unit structure
+2026-07-01,LEO PRODUCTION HUB,Garments_Produced,79393,96.6,8,Modeled monthly operational summary using public business-unit structure
+2026-07-01,LEO PRINT,Print_Units,161465,81.5,2,Modeled monthly operational summary using public business-unit structure
+2026-07-01,LEO MODA,Sales_Units,59539,98.0,0,Modeled monthly operational summary using public business-unit structure
+2026-08-01,LEO DESIGN,Designs_Completed,57,87.8,5,Modeled monthly operational summary using public business-unit structure
+2026-08-01,LEO TEX,Fabric_Meters,83622,86.4,5,Modeled monthly operational summary using public business-unit structure
+2026-08-01,LEO PRODUCTION HUB,Garments_Produced,95683,75.9,6,Modeled monthly operational summary using public business-unit structure
+2026-08-01,LEO PRINT,Print_Units,49721,83.7,2,Modeled monthly operational summary using public business-unit structure
+2026-08-01,LEO MODA,Sales_Units,54091,90.0,4,Modeled monthly operational summary using public business-unit structure
+2026-09-01,LEO DESIGN,Designs_Completed,59,94.8,5,Modeled monthly operational summary using public business-unit structure
+2026-09-01,LEO TEX,Fabric_Meters,95473,90.8,2,Modeled monthly operational summary using public business-unit structure
+2026-09-01,LEO PRODUCTION HUB,Garments_Produced,107063,91.6,4,Modeled monthly operational summary using public business-unit structure
+2026-09-01,LEO PRINT,Print_Units,131332,83.4,1,Modeled monthly operational summary using public business-unit structure
+2026-09-01,LEO MODA,Sales_Units,44198,85.6,6,Modeled monthly operational summary using public business-unit structure

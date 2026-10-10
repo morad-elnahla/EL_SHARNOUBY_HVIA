@@ -1,0 +1,13 @@
+﻿Material_ID,Material_Name,Unit,Material_Category,Standard_Lead_Time_Days,Data_Class
+M001,Single Jersey Cotton 160 GSM,meter,Fabric,10,Modeled operational material master
+M002,Single Jersey Cotton 180 GSM,meter,Fabric,14,Modeled operational material master
+M003,Rib Cotton,meter,Fabric,10,Modeled operational material master
+M004,Summer Melton,meter,Fabric,10,Modeled operational material master
+M005,Elastic Band,meter,Trims,7,Modeled operational material master
+M006,Sewing Thread,cone,Trims,14,Modeled operational material master
+M007,Neck Label,piece,Trims,7,Modeled operational material master
+M008,Care Label,piece,Trims,14,Modeled operational material master
+M009,Poly Bag,piece,Packaging,7,Modeled operational material master
+M010,Carton Box,piece,Packaging,10,Modeled operational material master
+M011,Water-Based Ink,kg,Printing,21,Modeled operational material master
+M012,Heat Transfer Film,sheet,Printing,7,Modeled operational material master

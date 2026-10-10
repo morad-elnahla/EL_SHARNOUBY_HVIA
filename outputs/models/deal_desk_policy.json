@@ -1,0 +1,57 @@
+{
+  "phase_1_policy": "Volume-tiered cap",
+  "tier_caps": [
+    {
+      "min_qty": 12,
+      "max_qty": 23,
+      "max_discount": 0.28
+    },
+    {
+      "min_qty": 24,
+      "max_qty": 47,
+      "max_discount": 0.3
+    },
+    {
+      "min_qty": 48,
+      "max_qty": 10000,
+      "max_discount": 0.32
+    }
+  ],
+  "phase_2_policy": "Tiered cap + margin floor",
+  "margin_floor": 0.15,
+  "approval_rule": "within tier cap and margin >= floor: auto; margin >= 8%: manager; below 8%: director; below cost: reject",
+  "historical_simulation": {
+    "Volume-tiered cap": {
+      "Policy": "Volume-tiered cap",
+      "Volume_Loss_On_Repriced": 0.0,
+      "Lines_Repriced": 27870,
+      "Share_Lines_Repriced": 0.5971460404525197,
+      "Old_Net": 359361115.68,
+      "New_Net": 373999252.91999996,
+      "Old_GP": 42635042.37999998,
+      "New_GP": 57273179.619999975,
+      "GP_Uplift": 14638137.239999995,
+      "Old_GM": 0.11864122332580125,
+      "New_GM": 0.15313714980134185,
+      "Loss_Making_Lines_After": 695
+    },
+    "Tiered cap + margin floor": {
+      "Policy": "Tiered cap + margin floor",
+      "Volume_Loss_On_Repriced": 0.0,
+      "Lines_Repriced": 36164,
+      "Share_Lines_Repriced": 0.774854302365444,
+      "Old_Net": 359361115.68,
+      "New_Net": 385735585.5905883,
+      "Old_GP": 42635042.37999998,
+      "New_GP": 69009512.29058823,
+      "GP_Uplift": 26374469.91058825,
+      "Old_GM": 0.11864122332580125,
+      "New_GM": 0.17890367098210505,
+      "Loss_Making_Lines_After": 0
+    }
+  },
+  "breakeven_volume_loss": {
+    "Volume-tiered cap": 0.48060505112066043,
+    "Tiered cap + margin floor": 0.5362353919790332
+  }
+}

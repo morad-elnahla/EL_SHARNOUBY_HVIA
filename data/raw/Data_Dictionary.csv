@@ -1,0 +1,20 @@
+﻿Table,Grain,Purpose,Real_vs_Modeled
+Product_Master.csv,1 row per public product,Public product catalog master and public retail price,Public/verified master data
+Business_Units.csv,1 row per company business unit,Group structure and public capacity facts,Public/verified facts
+Locations.csv,1 row per channel / operating location,"Retail, online, wholesale, HQ and factory context",Public facts where available; exact factory address not asserted
+Customers.csv,1 row per anonymized customer ID,Customer segmentation / retention / RFM,Modeled/anonymized training data
+Sales_Transactions.csv,1 row per invoice line,"Sales, margin, returns, channel and product analysis",Modeled transactions anchored to public products/prices
+Inventory_History.csv,month x location x product,"Inventory turns, stockouts, replenishment and demand planning",Modeled; intentionally contains NO forecast outputs
+Marketing.csv,1 row per campaign,ROAS/CAC/conversion/attribution analysis,Modeled
+Web_Traffic_Daily.csv,1 row per day,Digital funnel and conversion analysis,Modeled
+Materials.csv,1 row per material,Material master,Modeled generic operational master
+Product_BOM.csv,product x material,BOM / material requirements,Modeled
+Suppliers.csv,1 row per anonymized supplier,Supplier segmentation,Modeled/anonymized
+Purchase_Orders.csv,1 row per material PO,"Lead time, OTIF, purchase price and reject analysis",Modeled
+Production_Orders.csv,1 row per production order,"Throughput, efficiency, bottleneck and delay analysis",Modeled using public capacity context
+Printing_Batches.csv,1 row per print batch,"Yield, defect, reprint and machine performance",Modeled
+Machine_Downtime.csv,1 row per downtime event,OEE/downtime/root cause analysis,Modeled
+Quality.csv,1 row per QC inspection,"Pareto defects, root causes and quality cost",Modeled
+Customer_Service.csv,1 row per support ticket,"Service SLA, issue mix and CSAT",Modeled
+Group_Operations.csv,month x business unit,Cross-business executive operations view,Public unit structure + modeled KPIs
+Sources.csv,1 row per public source,Audit trail for public facts,Public sources

@@ -1,0 +1,13 @@
+﻿Supplier_ID,Supplier_Name,Primary_Category,Governorate,Payment_Terms_Days,Contracted,Data_Class
+SUP01,Approved Supplier 01 (anonymized),Packaging,Beheira,45,No,Modeled training record - supplier identity anonymized
+SUP02,Approved Supplier 02 (anonymized),Trims,Alexandria,15,Yes,Modeled training record - supplier identity anonymized
+SUP03,Approved Supplier 03 (anonymized),Fabric,Gharbia,45,No,Modeled training record - supplier identity anonymized
+SUP04,Approved Supplier 04 (anonymized),Printing Consumables,Beheira,60,Yes,Modeled training record - supplier identity anonymized
+SUP05,Approved Supplier 05 (anonymized),Fabric,Cairo,45,No,Modeled training record - supplier identity anonymized
+SUP06,Approved Supplier 06 (anonymized),Packaging,Gharbia,60,Yes,Modeled training record - supplier identity anonymized
+SUP07,Approved Supplier 07 (anonymized),Packaging,Cairo,15,Yes,Modeled training record - supplier identity anonymized
+SUP08,Approved Supplier 08 (anonymized),Trims,Gharbia,45,No,Modeled training record - supplier identity anonymized
+SUP09,Approved Supplier 09 (anonymized),Trims,Alexandria,30,No,Modeled training record - supplier identity anonymized
+SUP10,Approved Supplier 10 (anonymized),Trims,Dakahlia,45,Yes,Modeled training record - supplier identity anonymized
+SUP11,Approved Supplier 11 (anonymized),Trims,Gharbia,15,Yes,Modeled training record - supplier identity anonymized
+SUP12,Approved Supplier 12 (anonymized),Fabric,Dakahlia,15,Yes,Modeled training record - supplier identity anonymized

@@ -1,0 +1,5 @@
+﻿Type,Component,EGP,Share,Pct_of_Gross_Profit
+Internal failure,QC rejects (inspection loss),16322914.13,0.8032348148072158,0.25155408094673803
+Internal failure,Print rework cost,795587.65,0.03915009866627645,0.012260881758882663
+Internal failure,Consumables wasted on rejected prints,693071.4226688351,0.03410537428561326,0.010680993808542876
+External failure,Refunds on quality-related returns,2509899.21,0.12350971224089428,0.03868031063644968

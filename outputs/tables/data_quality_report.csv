@@ -1,0 +1,82 @@
+﻿table,check,rows_failed,rows_checked,pct_failed,status,action
+Sales_Transactions,exact duplicate rows,0,180000,0.0,PASS,-
+Sales_Transactions,unparseable date: Order_Date,0,180000,0.0,PASS,-
+Customers,exact duplicate rows,0,30000,0.0,PASS,-
+Customers,unparseable date: Join_Date,0,30000,0.0,PASS,-
+Product_Master,exact duplicate rows,0,59,0.0,PASS,-
+Locations,exact duplicate rows,0,5,0.0,PASS,-
+Inventory_History,exact duplicate rows,0,6372,0.0,PASS,-
+Inventory_History,unparseable date: Snapshot_Month,0,6372,0.0,PASS,-
+Marketing,exact duplicate rows,0,420,0.0,PASS,-
+Marketing,unparseable date: Start_Date,0,420,0.0,PASS,-
+Marketing,unparseable date: End_Date,0,420,0.0,PASS,-
+Web_Traffic_Daily,exact duplicate rows,0,1096,0.0,PASS,-
+Web_Traffic_Daily,unparseable date: Date,0,1096,0.0,PASS,-
+Materials,exact duplicate rows,0,12,0.0,PASS,-
+Product_BOM,exact duplicate rows,0,337,0.0,PASS,-
+Suppliers,exact duplicate rows,0,12,0.0,PASS,-
+Purchase_Orders,exact duplicate rows,0,3600,0.0,PASS,-
+Purchase_Orders,unparseable date: Order_Date,0,3600,0.0,PASS,-
+Purchase_Orders,unparseable date: Promised_Date,0,3600,0.0,PASS,-
+Purchase_Orders,unparseable date: Actual_Receipt_Date,0,3600,0.0,PASS,-
+Production_Orders,exact duplicate rows,0,2500,0.0,PASS,-
+Production_Orders,unparseable date: Start_Date,0,2500,0.0,PASS,-
+Production_Orders,unparseable date: Due_Date,0,2500,0.0,PASS,-
+Production_Orders,unparseable date: Completion_Date,0,2500,0.0,PASS,-
+Printing_Batches,exact duplicate rows,0,1900,0.0,PASS,-
+Printing_Batches,unparseable date: Print_Date,0,1900,0.0,PASS,-
+Machine_Downtime,exact duplicate rows,0,2800,0.0,PASS,-
+Machine_Downtime,unparseable date: Date,0,2800,0.0,PASS,-
+Quality,exact duplicate rows,0,9000,0.0,PASS,-
+Quality,unparseable date: Inspection_Date,0,9000,0.0,PASS,-
+Customer_Service,exact duplicate rows,0,6500,0.0,PASS,-
+Customer_Service,unparseable date: Open_Date,0,6500,0.0,PASS,-
+Group_Operations,exact duplicate rows,0,180,0.0,PASS,-
+Group_Operations,unparseable date: Month,0,180,0.0,PASS,-
+Business_Units,exact duplicate rows,0,5,0.0,PASS,-
+Sales_Transactions,duplicate Invoice_ID,0,180000,0.0,PASS,-
+Sales_Transactions,Customer_ID not in Customers,0,180000,0.0,PASS,-
+Sales_Transactions,Product_ID not in Product_Master,0,180000,0.0,PASS,-
+Sales_Transactions,Location_ID not in Locations,0,180000,0.0,PASS,-
+Sales_Transactions,Quantity <= 0,0,180000,0.0,PASS,-
+Sales_Transactions,Gross != Qty x List price,0,180000,0.0,PASS,-
+Sales_Transactions,Net != Gross x (1 - discount),0,180000,0.0,PASS,-
+Sales_Transactions,GP != Net - COGS,0,180000,0.0,PASS,-
+Sales_Transactions,List price != public catalog price,0,180000,0.0,PASS,-
+Sales_Transactions,Returned=Yes without Return_Date,0,180000,0.0,PASS,-
+Sales_Transactions,Return_Date before Order_Date,0,180000,0.0,PASS,-
+Sales_Transactions,Refund > Net sales,0,180000,0.0,PASS,-
+Sales_Transactions,Month_Key != Order_Date month,0,180000,0.0,PASS,-
+Sales_Transactions,Negative gross profit (loss-making invoice),4876,180000,2.709,FLAG,kept & flagged: business finding
+Sales_Transactions,Customer type inconsistent with channel,2197,180000,1.221,FLAG,kept & flagged
+Sales_Transactions,Order before customer Join_Date,0,180000,0.0,PASS,-
+Sales_Transactions,Order after data cut-off,0,180000,0.0,PASS,-
+Inventory_History,duplicate month x location x product,0,6372,0.0,PASS,-
+Inventory_History,negative stock values,0,6372,0.0,PASS,-
+Inventory_History,stock roll-forward does not balance,147,6372,2.307,FLAG,kept; gap stored as Unexplained_Stock_Adj
+Inventory_History,Safety stock > reorder point,0,6372,0.0,PASS,-
+Inventory_History,Sold_Qty != units in Sales_Transactions,0,6372,0.0,PASS,-
+Marketing,End_Date before Start_Date,0,420,0.0,PASS,-
+Marketing,Clicks > Impressions,0,420,0.0,PASS,-
+Marketing,Orders attributed > Clicks,0,420,0.0,PASS,-
+Marketing,Attributed revenue = 5.5x total Online net sales (cannot reconcile),1,1,100.0,FLAG,"ROAS used for ranking only, not as absolute"
+Web_Traffic_Daily,Orders > Sessions,0,1096,0.0,PASS,-
+Web_Traffic_Daily,Web orders < Online invoices in Sales,1,1,100.0,FLAG,flagged: web analytics under-counts or Sales over-counts online orders
+Purchase_Orders,Accepted + Rejected != Ordered,0,3600,0.0,PASS,-
+Purchase_Orders,Receipt before Order date,0,3600,0.0,PASS,-
+Purchase_Orders,Supplier_ID not in Suppliers,0,3600,0.0,PASS,-
+Purchase_Orders,Material_ID not in Materials,0,3600,0.0,PASS,-
+Purchase_Orders,Supplier category differs from material category,2685,3600,74.583,FLAG,kept: suppliers are not category-specialised
+Production_Orders,Good + Rejected != Produced,0,2500,0.0,PASS,-
+Production_Orders,Produced > Planned,0,2500,0.0,PASS,-
+Production_Orders,Delay_Days != Completion - Due,0,2500,0.0,PASS,-
+Production_Orders,Delayed order without bottleneck label,0,2500,0.0,PASS,-
+Production_Orders,Efficiency outside 0-100,0,2500,0.0,PASS,-
+Printing_Batches,Good + Rejected != Printed,0,1900,0.0,PASS,-
+Printing_Batches,Printed > Planned (over-run),367,1900,19.316,FLAG,kept & flagged
+Printing_Batches,Rejected units without Defect_Type,381,1900,20.053,FLAG,labelled 'Unclassified'
+Machine_Downtime,Downtime_Hours <= 0,0,2800,0.0,PASS,-
+Quality,Passed + Rejected != Inspected,0,9000,0.0,PASS,-
+Quality,Rejected units without Defect_Type,1621,9000,18.011,FLAG,labelled 'Unclassified'
+Quality,Rejects with root cause 'No significant issue',1612,9000,17.911,FLAG,kept & flagged: root-cause coding unreliable
+Quality,Product_ID not in Product_Master,0,9000,0.0,PASS,-

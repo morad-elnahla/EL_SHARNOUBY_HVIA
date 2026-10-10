@@ -1,0 +1,338 @@
+﻿Product_ID,Product_Name,Material_ID,Material_Name,Required_Per_Unit,Unit,Data_Class
+P001,Summer children's girls-Happy,M001,Single Jersey Cotton 160 GSM,1.04,meter,Modeled BOM for training
+P001,Summer children's girls-Happy,M006,Sewing Thread,0.032,cone,Modeled BOM for training
+P001,Summer children's girls-Happy,M007,Neck Label,1,piece,Modeled BOM for training
+P001,Summer children's girls-Happy,M008,Care Label,1,piece,Modeled BOM for training
+P001,Summer children's girls-Happy,M009,Poly Bag,1,piece,Modeled BOM for training
+P002,Summer children's girls-turtle,M001,Single Jersey Cotton 160 GSM,0.69,meter,Modeled BOM for training
+P002,Summer children's girls-turtle,M006,Sewing Thread,0.025,cone,Modeled BOM for training
+P002,Summer children's girls-turtle,M007,Neck Label,1,piece,Modeled BOM for training
+P002,Summer children's girls-turtle,M008,Care Label,1,piece,Modeled BOM for training
+P002,Summer children's girls-turtle,M009,Poly Bag,1,piece,Modeled BOM for training
+P002,Summer children's girls-turtle,M012,Heat Transfer Film,0.059,sheet,Modeled BOM for training
+P003,Summer children's girls-Hello kitty Rose & turquoise,M001,Single Jersey Cotton 160 GSM,0.87,meter,Modeled BOM for training
+P003,Summer children's girls-Hello kitty Rose & turquoise,M006,Sewing Thread,0.031,cone,Modeled BOM for training
+P003,Summer children's girls-Hello kitty Rose & turquoise,M007,Neck Label,1,piece,Modeled BOM for training
+P003,Summer children's girls-Hello kitty Rose & turquoise,M008,Care Label,1,piece,Modeled BOM for training
+P003,Summer children's girls-Hello kitty Rose & turquoise,M009,Poly Bag,1,piece,Modeled BOM for training
+P003,Summer children's girls-Hello kitty Rose & turquoise,M012,Heat Transfer Film,0.044,sheet,Modeled BOM for training
+P004,Summer children's girls-Hello kitty black&white,M003,Rib Cotton,0.92,meter,Modeled BOM for training
+P004,Summer children's girls-Hello kitty black&white,M006,Sewing Thread,0.029,cone,Modeled BOM for training
+P004,Summer children's girls-Hello kitty black&white,M007,Neck Label,1,piece,Modeled BOM for training
+P004,Summer children's girls-Hello kitty black&white,M008,Care Label,1,piece,Modeled BOM for training
+P004,Summer children's girls-Hello kitty black&white,M009,Poly Bag,1,piece,Modeled BOM for training
+P004,Summer children's girls-Hello kitty black&white,M012,Heat Transfer Film,0.054,sheet,Modeled BOM for training
+P005,Summer children's boys-Black and orange,M003,Rib Cotton,0.69,meter,Modeled BOM for training
+P005,Summer children's boys-Black and orange,M006,Sewing Thread,0.034,cone,Modeled BOM for training
+P005,Summer children's boys-Black and orange,M007,Neck Label,1,piece,Modeled BOM for training
+P005,Summer children's boys-Black and orange,M008,Care Label,1,piece,Modeled BOM for training
+P005,Summer children's boys-Black and orange,M009,Poly Bag,1,piece,Modeled BOM for training
+P005,Summer children's boys-Black and orange,M012,Heat Transfer Film,0.06,sheet,Modeled BOM for training
+P006,Summer children's boys-Sonic,M002,Single Jersey Cotton 180 GSM,0.69,meter,Modeled BOM for training
+P006,Summer children's boys-Sonic,M006,Sewing Thread,0.017,cone,Modeled BOM for training
+P006,Summer children's boys-Sonic,M007,Neck Label,1,piece,Modeled BOM for training
+P006,Summer children's boys-Sonic,M008,Care Label,1,piece,Modeled BOM for training
+P006,Summer children's boys-Sonic,M009,Poly Bag,1,piece,Modeled BOM for training
+P006,Summer children's boys-Sonic,M011,Water-Based Ink,0.017,kg,Modeled BOM for training
+P007,Summer children's boys-Black and turquoise,M002,Single Jersey Cotton 180 GSM,0.79,meter,Modeled BOM for training
+P007,Summer children's boys-Black and turquoise,M006,Sewing Thread,0.019,cone,Modeled BOM for training
+P007,Summer children's boys-Black and turquoise,M007,Neck Label,1,piece,Modeled BOM for training
+P007,Summer children's boys-Black and turquoise,M008,Care Label,1,piece,Modeled BOM for training
+P007,Summer children's boys-Black and turquoise,M009,Poly Bag,1,piece,Modeled BOM for training
+P007,Summer children's boys-Black and turquoise,M011,Water-Based Ink,0.047,kg,Modeled BOM for training
+P008,Summer children's boys-SpongeBob,M002,Single Jersey Cotton 180 GSM,0.54,meter,Modeled BOM for training
+P008,Summer children's boys-SpongeBob,M006,Sewing Thread,0.022,cone,Modeled BOM for training
+P008,Summer children's boys-SpongeBob,M007,Neck Label,1,piece,Modeled BOM for training
+P008,Summer children's boys-SpongeBob,M008,Care Label,1,piece,Modeled BOM for training
+P008,Summer children's boys-SpongeBob,M009,Poly Bag,1,piece,Modeled BOM for training
+P008,Summer children's boys-SpongeBob,M011,Water-Based Ink,0.01,kg,Modeled BOM for training
+P009,Boys' summer t-shirt-Aubergine,M001,Single Jersey Cotton 160 GSM,0.48,meter,Modeled BOM for training
+P009,Boys' summer t-shirt-Aubergine,M006,Sewing Thread,0.034,cone,Modeled BOM for training
+P009,Boys' summer t-shirt-Aubergine,M007,Neck Label,1,piece,Modeled BOM for training
+P009,Boys' summer t-shirt-Aubergine,M008,Care Label,1,piece,Modeled BOM for training
+P009,Boys' summer t-shirt-Aubergine,M009,Poly Bag,1,piece,Modeled BOM for training
+P009,Boys' summer t-shirt-Aubergine,M011,Water-Based Ink,0.03,kg,Modeled BOM for training
+P010,Boys' summer t-shirt-olive,M002,Single Jersey Cotton 180 GSM,0.47,meter,Modeled BOM for training
+P010,Boys' summer t-shirt-olive,M006,Sewing Thread,0.027,cone,Modeled BOM for training
+P010,Boys' summer t-shirt-olive,M007,Neck Label,1,piece,Modeled BOM for training
+P010,Boys' summer t-shirt-olive,M008,Care Label,1,piece,Modeled BOM for training
+P010,Boys' summer t-shirt-olive,M009,Poly Bag,1,piece,Modeled BOM for training
+P010,Boys' summer t-shirt-olive,M011,Water-Based Ink,0.019,kg,Modeled BOM for training
+P011,Boys' summer t-shirt-Navy blue,M002,Single Jersey Cotton 180 GSM,1.07,meter,Modeled BOM for training
+P011,Boys' summer t-shirt-Navy blue,M006,Sewing Thread,0.02,cone,Modeled BOM for training
+P011,Boys' summer t-shirt-Navy blue,M007,Neck Label,1,piece,Modeled BOM for training
+P011,Boys' summer t-shirt-Navy blue,M008,Care Label,1,piece,Modeled BOM for training
+P011,Boys' summer t-shirt-Navy blue,M009,Poly Bag,1,piece,Modeled BOM for training
+P011,Boys' summer t-shirt-Navy blue,M011,Water-Based Ink,0.042,kg,Modeled BOM for training
+P012,Boys' summer t-shirt-light beige,M002,Single Jersey Cotton 180 GSM,0.86,meter,Modeled BOM for training
+P012,Boys' summer t-shirt-light beige,M006,Sewing Thread,0.027,cone,Modeled BOM for training
+P012,Boys' summer t-shirt-light beige,M007,Neck Label,1,piece,Modeled BOM for training
+P012,Boys' summer t-shirt-light beige,M008,Care Label,1,piece,Modeled BOM for training
+P012,Boys' summer t-shirt-light beige,M009,Poly Bag,1,piece,Modeled BOM for training
+P012,Boys' summer t-shirt-light beige,M012,Heat Transfer Film,0.032,sheet,Modeled BOM for training
+P013,Boys' summer t-shirt-Beige,M003,Rib Cotton,1.0,meter,Modeled BOM for training
+P013,Boys' summer t-shirt-Beige,M006,Sewing Thread,0.016,cone,Modeled BOM for training
+P013,Boys' summer t-shirt-Beige,M007,Neck Label,1,piece,Modeled BOM for training
+P013,Boys' summer t-shirt-Beige,M008,Care Label,1,piece,Modeled BOM for training
+P013,Boys' summer t-shirt-Beige,M009,Poly Bag,1,piece,Modeled BOM for training
+P013,Boys' summer t-shirt-Beige,M011,Water-Based Ink,0.022,kg,Modeled BOM for training
+P014,Boys' summer t-shirt-Black,M003,Rib Cotton,0.8,meter,Modeled BOM for training
+P014,Boys' summer t-shirt-Black,M006,Sewing Thread,0.029,cone,Modeled BOM for training
+P014,Boys' summer t-shirt-Black,M007,Neck Label,1,piece,Modeled BOM for training
+P014,Boys' summer t-shirt-Black,M008,Care Label,1,piece,Modeled BOM for training
+P014,Boys' summer t-shirt-Black,M009,Poly Bag,1,piece,Modeled BOM for training
+P014,Boys' summer t-shirt-Black,M012,Heat Transfer Film,0.037,sheet,Modeled BOM for training
+P015,Girls' summer pajamas-Stay cool,M003,Rib Cotton,0.71,meter,Modeled BOM for training
+P015,Girls' summer pajamas-Stay cool,M006,Sewing Thread,0.025,cone,Modeled BOM for training
+P015,Girls' summer pajamas-Stay cool,M007,Neck Label,1,piece,Modeled BOM for training
+P015,Girls' summer pajamas-Stay cool,M008,Care Label,1,piece,Modeled BOM for training
+P015,Girls' summer pajamas-Stay cool,M009,Poly Bag,1,piece,Modeled BOM for training
+P015,Girls' summer pajamas-Stay cool,M011,Water-Based Ink,0.057,kg,Modeled BOM for training
+P016,Girls' summer pajamas-Watercolor Floral,M002,Single Jersey Cotton 180 GSM,0.66,meter,Modeled BOM for training
+P016,Girls' summer pajamas-Watercolor Floral,M006,Sewing Thread,0.018,cone,Modeled BOM for training
+P016,Girls' summer pajamas-Watercolor Floral,M007,Neck Label,1,piece,Modeled BOM for training
+P016,Girls' summer pajamas-Watercolor Floral,M008,Care Label,1,piece,Modeled BOM for training
+P016,Girls' summer pajamas-Watercolor Floral,M009,Poly Bag,1,piece,Modeled BOM for training
+P017,Girls' summer pajamas-flower,M001,Single Jersey Cotton 160 GSM,0.68,meter,Modeled BOM for training
+P017,Girls' summer pajamas-flower,M006,Sewing Thread,0.026,cone,Modeled BOM for training
+P017,Girls' summer pajamas-flower,M007,Neck Label,1,piece,Modeled BOM for training
+P017,Girls' summer pajamas-flower,M008,Care Label,1,piece,Modeled BOM for training
+P017,Girls' summer pajamas-flower,M009,Poly Bag,1,piece,Modeled BOM for training
+P017,Girls' summer pajamas-flower,M011,Water-Based Ink,0.02,kg,Modeled BOM for training
+P018,Boys' summer pajamas-Wear your attitude,M002,Single Jersey Cotton 180 GSM,0.46,meter,Modeled BOM for training
+P018,Boys' summer pajamas-Wear your attitude,M006,Sewing Thread,0.023,cone,Modeled BOM for training
+P018,Boys' summer pajamas-Wear your attitude,M007,Neck Label,1,piece,Modeled BOM for training
+P018,Boys' summer pajamas-Wear your attitude,M008,Care Label,1,piece,Modeled BOM for training
+P018,Boys' summer pajamas-Wear your attitude,M009,Poly Bag,1,piece,Modeled BOM for training
+P018,Boys' summer pajamas-Wear your attitude,M011,Water-Based Ink,0.059,kg,Modeled BOM for training
+P019,Boys' summer pajamas- Seeds OF,M003,Rib Cotton,0.89,meter,Modeled BOM for training
+P019,Boys' summer pajamas- Seeds OF,M006,Sewing Thread,0.031,cone,Modeled BOM for training
+P019,Boys' summer pajamas- Seeds OF,M007,Neck Label,1,piece,Modeled BOM for training
+P019,Boys' summer pajamas- Seeds OF,M008,Care Label,1,piece,Modeled BOM for training
+P019,Boys' summer pajamas- Seeds OF,M009,Poly Bag,1,piece,Modeled BOM for training
+P019,Boys' summer pajamas- Seeds OF,M011,Water-Based Ink,0.033,kg,Modeled BOM for training
+P020,Boys' summer pajamas-Rock Band,M003,Rib Cotton,0.67,meter,Modeled BOM for training
+P020,Boys' summer pajamas-Rock Band,M006,Sewing Thread,0.016,cone,Modeled BOM for training
+P020,Boys' summer pajamas-Rock Band,M007,Neck Label,1,piece,Modeled BOM for training
+P020,Boys' summer pajamas-Rock Band,M008,Care Label,1,piece,Modeled BOM for training
+P020,Boys' summer pajamas-Rock Band,M009,Poly Bag,1,piece,Modeled BOM for training
+P020,Boys' summer pajamas-Rock Band,M012,Heat Transfer Film,0.044,sheet,Modeled BOM for training
+P021,Girls' summer pajamas-Minnie Mouse,M004,Summer Melton,0.79,meter,Modeled BOM for training
+P021,Girls' summer pajamas-Minnie Mouse,M006,Sewing Thread,0.033,cone,Modeled BOM for training
+P021,Girls' summer pajamas-Minnie Mouse,M007,Neck Label,1,piece,Modeled BOM for training
+P021,Girls' summer pajamas-Minnie Mouse,M008,Care Label,1,piece,Modeled BOM for training
+P021,Girls' summer pajamas-Minnie Mouse,M009,Poly Bag,1,piece,Modeled BOM for training
+P021,Girls' summer pajamas-Minnie Mouse,M012,Heat Transfer Film,0.044,sheet,Modeled BOM for training
+P022,Girls' summer pajamas-Stitch,M001,Single Jersey Cotton 160 GSM,0.45,meter,Modeled BOM for training
+P022,Girls' summer pajamas-Stitch,M006,Sewing Thread,0.02,cone,Modeled BOM for training
+P022,Girls' summer pajamas-Stitch,M007,Neck Label,1,piece,Modeled BOM for training
+P022,Girls' summer pajamas-Stitch,M008,Care Label,1,piece,Modeled BOM for training
+P022,Girls' summer pajamas-Stitch,M009,Poly Bag,1,piece,Modeled BOM for training
+P023,Girls' summer pajamas-Dumbo,M002,Single Jersey Cotton 180 GSM,0.74,meter,Modeled BOM for training
+P023,Girls' summer pajamas-Dumbo,M006,Sewing Thread,0.034,cone,Modeled BOM for training
+P023,Girls' summer pajamas-Dumbo,M007,Neck Label,1,piece,Modeled BOM for training
+P023,Girls' summer pajamas-Dumbo,M008,Care Label,1,piece,Modeled BOM for training
+P023,Girls' summer pajamas-Dumbo,M009,Poly Bag,1,piece,Modeled BOM for training
+P023,Girls' summer pajamas-Dumbo,M011,Water-Based Ink,0.015,kg,Modeled BOM for training
+P024,Boys' summer pajamas-Mickey,M002,Single Jersey Cotton 180 GSM,0.76,meter,Modeled BOM for training
+P024,Boys' summer pajamas-Mickey,M006,Sewing Thread,0.02,cone,Modeled BOM for training
+P024,Boys' summer pajamas-Mickey,M007,Neck Label,1,piece,Modeled BOM for training
+P024,Boys' summer pajamas-Mickey,M008,Care Label,1,piece,Modeled BOM for training
+P024,Boys' summer pajamas-Mickey,M009,Poly Bag,1,piece,Modeled BOM for training
+P024,Boys' summer pajamas-Mickey,M011,Water-Based Ink,0.053,kg,Modeled BOM for training
+P025,Boys' summer pajamas-Snoopy,M004,Summer Melton,0.47,meter,Modeled BOM for training
+P025,Boys' summer pajamas-Snoopy,M006,Sewing Thread,0.024,cone,Modeled BOM for training
+P025,Boys' summer pajamas-Snoopy,M007,Neck Label,1,piece,Modeled BOM for training
+P025,Boys' summer pajamas-Snoopy,M008,Care Label,1,piece,Modeled BOM for training
+P025,Boys' summer pajamas-Snoopy,M009,Poly Bag,1,piece,Modeled BOM for training
+P025,Boys' summer pajamas-Snoopy,M011,Water-Based Ink,0.049,kg,Modeled BOM for training
+P026,Boys' summer pajamas-Bluey,M004,Summer Melton,0.56,meter,Modeled BOM for training
+P026,Boys' summer pajamas-Bluey,M006,Sewing Thread,0.024,cone,Modeled BOM for training
+P026,Boys' summer pajamas-Bluey,M007,Neck Label,1,piece,Modeled BOM for training
+P026,Boys' summer pajamas-Bluey,M008,Care Label,1,piece,Modeled BOM for training
+P026,Boys' summer pajamas-Bluey,M009,Poly Bag,1,piece,Modeled BOM for training
+P026,Boys' summer pajamas-Bluey,M012,Heat Transfer Film,0.02,sheet,Modeled BOM for training
+P027,Girls' pajamas - I'm Just a girl,M004,Summer Melton,0.66,meter,Modeled BOM for training
+P027,Girls' pajamas - I'm Just a girl,M006,Sewing Thread,0.034,cone,Modeled BOM for training
+P027,Girls' pajamas - I'm Just a girl,M007,Neck Label,1,piece,Modeled BOM for training
+P027,Girls' pajamas - I'm Just a girl,M008,Care Label,1,piece,Modeled BOM for training
+P027,Girls' pajamas - I'm Just a girl,M009,Poly Bag,1,piece,Modeled BOM for training
+P027,Girls' pajamas - I'm Just a girl,M011,Water-Based Ink,0.031,kg,Modeled BOM for training
+P028,Girls' summer pajamas,M003,Rib Cotton,1.1,meter,Modeled BOM for training
+P028,Girls' summer pajamas,M006,Sewing Thread,0.029,cone,Modeled BOM for training
+P028,Girls' summer pajamas,M007,Neck Label,1,piece,Modeled BOM for training
+P028,Girls' summer pajamas,M008,Care Label,1,piece,Modeled BOM for training
+P028,Girls' summer pajamas,M009,Poly Bag,1,piece,Modeled BOM for training
+P029,Girls' pajamas-Daylife+kuromi,M002,Single Jersey Cotton 180 GSM,0.94,meter,Modeled BOM for training
+P029,Girls' pajamas-Daylife+kuromi,M006,Sewing Thread,0.018,cone,Modeled BOM for training
+P029,Girls' pajamas-Daylife+kuromi,M007,Neck Label,1,piece,Modeled BOM for training
+P029,Girls' pajamas-Daylife+kuromi,M008,Care Label,1,piece,Modeled BOM for training
+P029,Girls' pajamas-Daylife+kuromi,M009,Poly Bag,1,piece,Modeled BOM for training
+P030,Boys' pajamas -Mickey Mouse,M001,Single Jersey Cotton 160 GSM,1.11,meter,Modeled BOM for training
+P030,Boys' pajamas -Mickey Mouse,M006,Sewing Thread,0.018,cone,Modeled BOM for training
+P030,Boys' pajamas -Mickey Mouse,M007,Neck Label,1,piece,Modeled BOM for training
+P030,Boys' pajamas -Mickey Mouse,M008,Care Label,1,piece,Modeled BOM for training
+P030,Boys' pajamas -Mickey Mouse,M009,Poly Bag,1,piece,Modeled BOM for training
+P031,Boys' pajamas -Don't Even!,M004,Summer Melton,1.01,meter,Modeled BOM for training
+P031,Boys' pajamas -Don't Even!,M006,Sewing Thread,0.016,cone,Modeled BOM for training
+P031,Boys' pajamas -Don't Even!,M007,Neck Label,1,piece,Modeled BOM for training
+P031,Boys' pajamas -Don't Even!,M008,Care Label,1,piece,Modeled BOM for training
+P031,Boys' pajamas -Don't Even!,M009,Poly Bag,1,piece,Modeled BOM for training
+P031,Boys' pajamas -Don't Even!,M011,Water-Based Ink,0.03,kg,Modeled BOM for training
+P032,Boys' sweatshirt-blue,M004,Summer Melton,1.09,meter,Modeled BOM for training
+P032,Boys' sweatshirt-blue,M006,Sewing Thread,0.032,cone,Modeled BOM for training
+P032,Boys' sweatshirt-blue,M007,Neck Label,1,piece,Modeled BOM for training
+P032,Boys' sweatshirt-blue,M008,Care Label,1,piece,Modeled BOM for training
+P032,Boys' sweatshirt-blue,M009,Poly Bag,1,piece,Modeled BOM for training
+P033,Boys' sweatshirt-LEO,M002,Single Jersey Cotton 180 GSM,1.04,meter,Modeled BOM for training
+P033,Boys' sweatshirt-LEO,M006,Sewing Thread,0.019,cone,Modeled BOM for training
+P033,Boys' sweatshirt-LEO,M007,Neck Label,1,piece,Modeled BOM for training
+P033,Boys' sweatshirt-LEO,M008,Care Label,1,piece,Modeled BOM for training
+P033,Boys' sweatshirt-LEO,M009,Poly Bag,1,piece,Modeled BOM for training
+P034,Boys' sweatshirt-black and white,M001,Single Jersey Cotton 160 GSM,0.9,meter,Modeled BOM for training
+P034,Boys' sweatshirt-black and white,M006,Sewing Thread,0.022,cone,Modeled BOM for training
+P034,Boys' sweatshirt-black and white,M007,Neck Label,1,piece,Modeled BOM for training
+P034,Boys' sweatshirt-black and white,M008,Care Label,1,piece,Modeled BOM for training
+P034,Boys' sweatshirt-black and white,M009,Poly Bag,1,piece,Modeled BOM for training
+P035,Girls' sweatshirt-Fuchsia,M004,Summer Melton,0.51,meter,Modeled BOM for training
+P035,Girls' sweatshirt-Fuchsia,M006,Sewing Thread,0.016,cone,Modeled BOM for training
+P035,Girls' sweatshirt-Fuchsia,M007,Neck Label,1,piece,Modeled BOM for training
+P035,Girls' sweatshirt-Fuchsia,M008,Care Label,1,piece,Modeled BOM for training
+P035,Girls' sweatshirt-Fuchsia,M009,Poly Bag,1,piece,Modeled BOM for training
+P036,Girls' sweatshirt-Tinker Bell,M003,Rib Cotton,0.51,meter,Modeled BOM for training
+P036,Girls' sweatshirt-Tinker Bell,M006,Sewing Thread,0.031,cone,Modeled BOM for training
+P036,Girls' sweatshirt-Tinker Bell,M007,Neck Label,1,piece,Modeled BOM for training
+P036,Girls' sweatshirt-Tinker Bell,M008,Care Label,1,piece,Modeled BOM for training
+P036,Girls' sweatshirt-Tinker Bell,M009,Poly Bag,1,piece,Modeled BOM for training
+P037,Girls' sweatshirt-Flower,M001,Single Jersey Cotton 160 GSM,0.96,meter,Modeled BOM for training
+P037,Girls' sweatshirt-Flower,M006,Sewing Thread,0.023,cone,Modeled BOM for training
+P037,Girls' sweatshirt-Flower,M007,Neck Label,1,piece,Modeled BOM for training
+P037,Girls' sweatshirt-Flower,M008,Care Label,1,piece,Modeled BOM for training
+P037,Girls' sweatshirt-Flower,M009,Poly Bag,1,piece,Modeled BOM for training
+P038,Boys' Autumn Pajamas-Mickey Mouse,M002,Single Jersey Cotton 180 GSM,1.05,meter,Modeled BOM for training
+P038,Boys' Autumn Pajamas-Mickey Mouse,M006,Sewing Thread,0.025,cone,Modeled BOM for training
+P038,Boys' Autumn Pajamas-Mickey Mouse,M007,Neck Label,1,piece,Modeled BOM for training
+P038,Boys' Autumn Pajamas-Mickey Mouse,M008,Care Label,1,piece,Modeled BOM for training
+P038,Boys' Autumn Pajamas-Mickey Mouse,M009,Poly Bag,1,piece,Modeled BOM for training
+P039,Boys' Autumn Pajamas-Spider Man,M003,Rib Cotton,0.78,meter,Modeled BOM for training
+P039,Boys' Autumn Pajamas-Spider Man,M006,Sewing Thread,0.03,cone,Modeled BOM for training
+P039,Boys' Autumn Pajamas-Spider Man,M007,Neck Label,1,piece,Modeled BOM for training
+P039,Boys' Autumn Pajamas-Spider Man,M008,Care Label,1,piece,Modeled BOM for training
+P039,Boys' Autumn Pajamas-Spider Man,M009,Poly Bag,1,piece,Modeled BOM for training
+P039,Boys' Autumn Pajamas-Spider Man,M012,Heat Transfer Film,0.032,sheet,Modeled BOM for training
+P040,Boys' Autumn Pajamas-Loony Tunes,M001,Single Jersey Cotton 160 GSM,0.56,meter,Modeled BOM for training
+P040,Boys' Autumn Pajamas-Loony Tunes,M006,Sewing Thread,0.027,cone,Modeled BOM for training
+P040,Boys' Autumn Pajamas-Loony Tunes,M007,Neck Label,1,piece,Modeled BOM for training
+P040,Boys' Autumn Pajamas-Loony Tunes,M008,Care Label,1,piece,Modeled BOM for training
+P040,Boys' Autumn Pajamas-Loony Tunes,M009,Poly Bag,1,piece,Modeled BOM for training
+P040,Boys' Autumn Pajamas-Loony Tunes,M011,Water-Based Ink,0.053,kg,Modeled BOM for training
+P041,Boys' Autumn Pajamas-Jurassic Park,M001,Single Jersey Cotton 160 GSM,0.92,meter,Modeled BOM for training
+P041,Boys' Autumn Pajamas-Jurassic Park,M006,Sewing Thread,0.025,cone,Modeled BOM for training
+P041,Boys' Autumn Pajamas-Jurassic Park,M007,Neck Label,1,piece,Modeled BOM for training
+P041,Boys' Autumn Pajamas-Jurassic Park,M008,Care Label,1,piece,Modeled BOM for training
+P041,Boys' Autumn Pajamas-Jurassic Park,M009,Poly Bag,1,piece,Modeled BOM for training
+P042,Girls' autumn pajamas-Cheeky Charmins,M004,Summer Melton,0.87,meter,Modeled BOM for training
+P042,Girls' autumn pajamas-Cheeky Charmins,M006,Sewing Thread,0.03,cone,Modeled BOM for training
+P042,Girls' autumn pajamas-Cheeky Charmins,M007,Neck Label,1,piece,Modeled BOM for training
+P042,Girls' autumn pajamas-Cheeky Charmins,M008,Care Label,1,piece,Modeled BOM for training
+P042,Girls' autumn pajamas-Cheeky Charmins,M009,Poly Bag,1,piece,Modeled BOM for training
+P042,Girls' autumn pajamas-Cheeky Charmins,M011,Water-Based Ink,0.033,kg,Modeled BOM for training
+P043,Girls' autumn pajamas-Snow White,M002,Single Jersey Cotton 180 GSM,0.73,meter,Modeled BOM for training
+P043,Girls' autumn pajamas-Snow White,M006,Sewing Thread,0.017,cone,Modeled BOM for training
+P043,Girls' autumn pajamas-Snow White,M007,Neck Label,1,piece,Modeled BOM for training
+P043,Girls' autumn pajamas-Snow White,M008,Care Label,1,piece,Modeled BOM for training
+P043,Girls' autumn pajamas-Snow White,M009,Poly Bag,1,piece,Modeled BOM for training
+P043,Girls' autumn pajamas-Snow White,M012,Heat Transfer Film,0.025,sheet,Modeled BOM for training
+P044,Girls' autumn pajamas-Ice Cream,M001,Single Jersey Cotton 160 GSM,0.71,meter,Modeled BOM for training
+P044,Girls' autumn pajamas-Ice Cream,M006,Sewing Thread,0.017,cone,Modeled BOM for training
+P044,Girls' autumn pajamas-Ice Cream,M007,Neck Label,1,piece,Modeled BOM for training
+P044,Girls' autumn pajamas-Ice Cream,M008,Care Label,1,piece,Modeled BOM for training
+P044,Girls' autumn pajamas-Ice Cream,M009,Poly Bag,1,piece,Modeled BOM for training
+P044,Girls' autumn pajamas-Ice Cream,M012,Heat Transfer Film,0.059,sheet,Modeled BOM for training
+P045,Girls' autumn pajamas-Stitch,M001,Single Jersey Cotton 160 GSM,0.99,meter,Modeled BOM for training
+P045,Girls' autumn pajamas-Stitch,M006,Sewing Thread,0.021,cone,Modeled BOM for training
+P045,Girls' autumn pajamas-Stitch,M007,Neck Label,1,piece,Modeled BOM for training
+P045,Girls' autumn pajamas-Stitch,M008,Care Label,1,piece,Modeled BOM for training
+P045,Girls' autumn pajamas-Stitch,M009,Poly Bag,1,piece,Modeled BOM for training
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,M004,Summer Melton,0.54,meter,Modeled BOM for training
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,M006,Sewing Thread,0.015,cone,Modeled BOM for training
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,M007,Neck Label,1,piece,Modeled BOM for training
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,M008,Care Label,1,piece,Modeled BOM for training
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,M009,Poly Bag,1,piece,Modeled BOM for training
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,M012,Heat Transfer Film,0.018,sheet,Modeled BOM for training
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,M003,Rib Cotton,0.56,meter,Modeled BOM for training
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,M006,Sewing Thread,0.031,cone,Modeled BOM for training
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,M007,Neck Label,1,piece,Modeled BOM for training
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,M008,Care Label,1,piece,Modeled BOM for training
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,M009,Poly Bag,1,piece,Modeled BOM for training
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,M011,Water-Based Ink,0.017,kg,Modeled BOM for training
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,M003,Rib Cotton,1.03,meter,Modeled BOM for training
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,M006,Sewing Thread,0.022,cone,Modeled BOM for training
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,M007,Neck Label,1,piece,Modeled BOM for training
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,M008,Care Label,1,piece,Modeled BOM for training
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,M009,Poly Bag,1,piece,Modeled BOM for training
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,M004,Summer Melton,1.1,meter,Modeled BOM for training
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,M006,Sewing Thread,0.019,cone,Modeled BOM for training
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,M007,Neck Label,1,piece,Modeled BOM for training
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,M008,Care Label,1,piece,Modeled BOM for training
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,M009,Poly Bag,1,piece,Modeled BOM for training
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,M011,Water-Based Ink,0.051,kg,Modeled BOM for training
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,M003,Rib Cotton,0.66,meter,Modeled BOM for training
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,M006,Sewing Thread,0.018,cone,Modeled BOM for training
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,M007,Neck Label,1,piece,Modeled BOM for training
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,M008,Care Label,1,piece,Modeled BOM for training
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,M009,Poly Bag,1,piece,Modeled BOM for training
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,M011,Water-Based Ink,0.059,kg,Modeled BOM for training
+P051,Ice cream - بيجامة حريمي صيفي2024,M003,Rib Cotton,1.02,meter,Modeled BOM for training
+P051,Ice cream - بيجامة حريمي صيفي2024,M006,Sewing Thread,0.026,cone,Modeled BOM for training
+P051,Ice cream - بيجامة حريمي صيفي2024,M007,Neck Label,1,piece,Modeled BOM for training
+P051,Ice cream - بيجامة حريمي صيفي2024,M008,Care Label,1,piece,Modeled BOM for training
+P051,Ice cream - بيجامة حريمي صيفي2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P051,Ice cream - بيجامة حريمي صيفي2024,M011,Water-Based Ink,0.012,kg,Modeled BOM for training
+P052,Teddy bear - بيجامة حريمي صيفي2024,M001,Single Jersey Cotton 160 GSM,0.89,meter,Modeled BOM for training
+P052,Teddy bear - بيجامة حريمي صيفي2024,M006,Sewing Thread,0.034,cone,Modeled BOM for training
+P052,Teddy bear - بيجامة حريمي صيفي2024,M007,Neck Label,1,piece,Modeled BOM for training
+P052,Teddy bear - بيجامة حريمي صيفي2024,M008,Care Label,1,piece,Modeled BOM for training
+P052,Teddy bear - بيجامة حريمي صيفي2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P052,Teddy bear - بيجامة حريمي صيفي2024,M012,Heat Transfer Film,0.057,sheet,Modeled BOM for training
+P053,PINK panther - بيجامة حريمي صيفي2024,M004,Summer Melton,0.55,meter,Modeled BOM for training
+P053,PINK panther - بيجامة حريمي صيفي2024,M006,Sewing Thread,0.024,cone,Modeled BOM for training
+P053,PINK panther - بيجامة حريمي صيفي2024,M007,Neck Label,1,piece,Modeled BOM for training
+P053,PINK panther - بيجامة حريمي صيفي2024,M008,Care Label,1,piece,Modeled BOM for training
+P053,PINK panther - بيجامة حريمي صيفي2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P053,PINK panther - بيجامة حريمي صيفي2024,M012,Heat Transfer Film,0.025,sheet,Modeled BOM for training
+P054,Gazelle - بيجامة حريمي صيفي2024,M002,Single Jersey Cotton 180 GSM,0.45,meter,Modeled BOM for training
+P054,Gazelle - بيجامة حريمي صيفي2024,M006,Sewing Thread,0.029,cone,Modeled BOM for training
+P054,Gazelle - بيجامة حريمي صيفي2024,M007,Neck Label,1,piece,Modeled BOM for training
+P054,Gazelle - بيجامة حريمي صيفي2024,M008,Care Label,1,piece,Modeled BOM for training
+P054,Gazelle - بيجامة حريمي صيفي2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P054,Gazelle - بيجامة حريمي صيفي2024,M012,Heat Transfer Film,0.041,sheet,Modeled BOM for training
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,M003,Rib Cotton,1.07,meter,Modeled BOM for training
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,M006,Sewing Thread,0.034,cone,Modeled BOM for training
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,M007,Neck Label,1,piece,Modeled BOM for training
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,M008,Care Label,1,piece,Modeled BOM for training
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,M011,Water-Based Ink,0.045,kg,Modeled BOM for training
+P056,BATGIRL - بيجامة حريمي صيفي2024,M003,Rib Cotton,0.46,meter,Modeled BOM for training
+P056,BATGIRL - بيجامة حريمي صيفي2024,M006,Sewing Thread,0.026,cone,Modeled BOM for training
+P056,BATGIRL - بيجامة حريمي صيفي2024,M007,Neck Label,1,piece,Modeled BOM for training
+P056,BATGIRL - بيجامة حريمي صيفي2024,M008,Care Label,1,piece,Modeled BOM for training
+P056,BATGIRL - بيجامة حريمي صيفي2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P056,BATGIRL - بيجامة حريمي صيفي2024,M011,Water-Based Ink,0.014,kg,Modeled BOM for training
+P057,Save the planet بيجامة حريمي صيفي - 2024,M004,Summer Melton,0.99,meter,Modeled BOM for training
+P057,Save the planet بيجامة حريمي صيفي - 2024,M006,Sewing Thread,0.016,cone,Modeled BOM for training
+P057,Save the planet بيجامة حريمي صيفي - 2024,M007,Neck Label,1,piece,Modeled BOM for training
+P057,Save the planet بيجامة حريمي صيفي - 2024,M008,Care Label,1,piece,Modeled BOM for training
+P057,Save the planet بيجامة حريمي صيفي - 2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P057,Save the planet بيجامة حريمي صيفي - 2024,M012,Heat Transfer Film,0.032,sheet,Modeled BOM for training
+P058,OHANA - بيجامة حريمي صيفي 2024,M001,Single Jersey Cotton 160 GSM,1.1,meter,Modeled BOM for training
+P058,OHANA - بيجامة حريمي صيفي 2024,M006,Sewing Thread,0.035,cone,Modeled BOM for training
+P058,OHANA - بيجامة حريمي صيفي 2024,M007,Neck Label,1,piece,Modeled BOM for training
+P058,OHANA - بيجامة حريمي صيفي 2024,M008,Care Label,1,piece,Modeled BOM for training
+P058,OHANA - بيجامة حريمي صيفي 2024,M009,Poly Bag,1,piece,Modeled BOM for training
+P059,Positive vibes - 2024بيجامة حريمي صيفي,M004,Summer Melton,1.15,meter,Modeled BOM for training
+P059,Positive vibes - 2024بيجامة حريمي صيفي,M006,Sewing Thread,0.022,cone,Modeled BOM for training
+P059,Positive vibes - 2024بيجامة حريمي صيفي,M007,Neck Label,1,piece,Modeled BOM for training
+P059,Positive vibes - 2024بيجامة حريمي صيفي,M008,Care Label,1,piece,Modeled BOM for training
+P059,Positive vibes - 2024بيجامة حريمي صيفي,M009,Poly Bag,1,piece,Modeled BOM for training
+P059,Positive vibes - 2024بيجامة حريمي صيفي,M011,Water-Based Ink,0.041,kg,Modeled BOM for training

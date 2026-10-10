@@ -1,0 +1,8 @@
+﻿Action,Lever,Low,Base,High,Assumption
+1. Wholesale discount governance - Phase 1: volume-tiered cap,Margin,2850815.2513616425,3866768.1859136974,4882721.120465752,Volume loss on re-priced lines 20% / 10% / 0%; observed price response ~0
+1b. Wholesale discount governance - Phase 2: margin-floor exceptions,Margin,2665483.7189980717,3290137.0686005717,3914790.418203069,"Incremental to Phase 1, same volume-loss assumptions"
+2. Win-back of lapsed high-frequency retail customers,Revenue retention,119598.99966666667,239197.99933333334,358796.99899999995,Reactivate 5% / 10% / 15% of the At-Risk (high frequency) pool
+3. Marketing reallocation (Influencer/Meta/TikTok to Google),Efficiency,-15239.153393935494,94741.86967576342,991766.9003117128,Google marginal ROAS = 25% / 50% / 100% of average; revenue reconciled to actual sales
+4. Cost of poor quality reduction,Cost,544097.1376666668,1088194.2753333335,1632291.413,QC-loss reduction 10% / 20% / 30%
+5. Online size/fit return reduction,Margin,14686.988267062943,24478.31377843824,39165.30204550119,"Fewer size/fit returns 15% / 25% / 40% (size guidance, fit charts)"
+6. Wholesale stockout recovery,Revenue retention,90617.55436192606,181235.1087238521,271852.6630857782,Recover 25% / 50% / 75% of est. lost wholesale GP via forecast-based replenishment

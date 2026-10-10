@@ -1,0 +1,184 @@
+{
+  "period": "2023-10-01 to 2026-09-30",
+  "net_sales": 421338377.53,
+  "gross_profit": 64888289.89999999,
+  "gross_margin": 0.15400517341997844,
+  "units": 1660589,
+  "invoices": 180000,
+  "customers": 25634,
+  "net_sales_fy": {
+    "FY24": 129524345.14999999,
+    "FY25": 143508088.68,
+    "FY26": 148305943.7
+  },
+  "gp_fy": {
+    "FY24": 19805835.799999997,
+    "FY25": 22018781.249999996,
+    "FY26": 23063672.849999994
+  },
+  "gm_fy": {
+    "FY24": 0.15291207052282865,
+    "FY25": 0.1534323357835135,
+    "FY26": 0.15551415050939726
+  },
+  "net_growth_fy25": 0.10796227932135594,
+  "net_growth_fy26": 0.033432645254571236,
+  "gp_growth_fy26": 0.047454561092022285,
+  "channel": {
+    "Online": {
+      "net_share": 0.0774426831025539,
+      "gp_share": 0.1754410658308935,
+      "gm": 0.348888115517547,
+      "refund_rate": 0.07357066068019162,
+      "gp_per_unit": 114.59820151199429
+    },
+    "Retail": {
+      "net_share": 0.06965348747019941,
+      "gp_share": 0.1675059829246633,
+      "gm": 0.37035888490484603,
+      "refund_rate": 0.0327065072255063,
+      "gp_per_unit": 126.13058207812101
+    },
+    "Wholesale": {
+      "net_share": 0.8529038294272467,
+      "gp_share": 0.6570529512444432,
+      "gm": 0.11864122332580128,
+      "refund_rate": 0.01688153109865701,
+      "gp_per_unit": 28.903624206481556
+    }
+  },
+  "wholesale_loss_making_lines": 4876,
+  "wholesale_loss_amount": -1374655.9500000011,
+  "wholesale_discount_given": 173869882.32,
+  "promo_2026": {
+    "discount_promo": 0.09720249194222508,
+    "volume_lift": 0.05195675331749117,
+    "gp_per_day_change": -0.026808028227383596
+  },
+  "retail_customers": 24035,
+  "repeat_rate_retail": 0.8350738506344914,
+  "at_risk_hf_customers": 3745,
+  "at_risk_hf_customer_share": 0.15581443727896818,
+  "at_risk_hf_sales_share": 0.3178885341870139,
+  "at_risk_hf_net": 24594351.12,
+  "champions_sales_share": 0.30697906604298497,
+  "lapsed_retail_customers": 6625,
+  "retention_q1_first_cohort": 0.9117647058823529,
+  "retention_q1_recent_cohorts": 0.4436019330107473,
+  "wholesale_cover_days": 11.0,
+  "retail_cover_days": 118.4,
+  "online_cover_days": 112.6,
+  "excess_stock_value": 7479129.911987461,
+  "stock_value": 15381073.86207674,
+  "wholesale_skus_below_rop": 36,
+  "wholesale_lost_gp_3y": 1064869.1845933506,
+  "forecast_wape_si_growth": 0.2334857048372579,
+  "forecast_wape_seasonal_naive": 0.2859643217771794,
+  "forecast_wape_naive3": 0.5360260293952653,
+  "replenishment_order_value": 10128471.39712688,
+  "replenishment_surplus_value": 7957956.440924538,
+  "forecast_fy27_units": 607332.924430204,
+  "fy27_base_net": 153933159.8413656,
+  "fy27_base_gp": 23975210.41882421,
+  "breakeven_roas": 2.785088414367306,
+  "attribution_overclaim": 5.508559651779338,
+  "roas": {
+    "WhatsApp / CRM": 66.961237549701,
+    "Google": 10.269304594491157,
+    "TikTok": 4.877002733110854,
+    "Meta": 4.366151070338866,
+    "Influencer": 1.0599586865083845
+  },
+  "spend_share": {
+    "WhatsApp / CRM": 0.10605818331023036,
+    "Google": 0.2667658668664841,
+    "TikTok": 0.15346356850834095,
+    "Meta": 0.3728684139359527,
+    "Influencer": 0.10084396737899184
+  },
+  "revenue_share": {
+    "WhatsApp / CRM": 0.5762276974897882,
+    "Google": 0.22227866001250204,
+    "TikTok": 0.060727410982865826,
+    "Meta": 0.13209331160411703,
+    "Influencer": 0.008672919910726863
+  },
+  "line04_delay": 0.20318725099601595,
+  "other_lines_delay": 0.15292429506722183,
+  "sewing_finishing_delay_share": 0.6841397849462365,
+  "copq_total": 20321472.41266884,
+  "copq_pct_gp": 0.31317626715061325,
+  "qc_loss": 16322914.13,
+  "unclassified_loss_share": 0.12429753620225656,
+  "size_fit_return_share": 0.35701744117991335,
+  "pr_m03_reject": 0.029579318293630582,
+  "other_printers_reject": 0.025972662182957594,
+  "pr_m02_downtime_h": 591.3,
+  "unplanned_downtime_share": 0.8016586487843594,
+  "sup04_otd": 0.398576512455516,
+  "sup09_otd": 0.3460207612456747,
+  "other_sup_otd": 0.70696102057633,
+  "problem_supplier_spend_share": 0.16010885480016396,
+  "wholesale_gm": 0.11864122332580128,
+  "wholesale_discount_r2_model": 0.007900252024643395,
+  "wholesale_discount_r2_baseline": -0.00015763257902112748,
+  "price_response_coef": 0.0003004713450667867,
+  "price_response_p": 0.5819613327282467,
+  "price_response_within_p": 0.6526557176392063,
+  "mean_wholesale_discount": 0.32603638155639353,
+  "policy_tier": {
+    "lines_repriced_share": 0.5971460404525197,
+    "gm_new": 0.15313714980134185,
+    "uplift_3y_0": 14638137.239999995,
+    "uplift_year_0": 4882721.120465752,
+    "uplift_year_10": 3866768.1859136974,
+    "uplift_year_20": 2850815.2513616425,
+    "breakeven_loss": 0.48060505112066043,
+    "loss_making_after": 695
+  },
+  "policy_both": {
+    "gm_new": 0.17890367098210505,
+    "uplift_year_0": 8797511.53866882,
+    "uplift_year_10": 7156905.254514269,
+    "uplift_year_20": 5516298.970359714,
+    "breakeven_loss": 0.5362353919790332
+  },
+  "value_at_stake": {
+    "1. Wholesale discount governance - Phase 1: volume-tiered cap": {
+      "low": 2850815.2513616425,
+      "base": 3866768.1859136974,
+      "high": 4882721.120465752
+    },
+    "1b. Wholesale discount governance - Phase 2: margin-floor exceptions": {
+      "low": 2665483.7189980717,
+      "base": 3290137.0686005717,
+      "high": 3914790.418203069
+    },
+    "2. Win-back of lapsed high-frequency retail customers": {
+      "low": 119598.99966666667,
+      "base": 239197.99933333334,
+      "high": 358796.99899999995
+    },
+    "3. Marketing reallocation (Influencer/Meta/TikTok to Google)": {
+      "low": -15239.153393935494,
+      "base": 94741.86967576342,
+      "high": 991766.9003117128
+    },
+    "4. Cost of poor quality reduction": {
+      "low": 544097.1376666668,
+      "base": 1088194.2753333335,
+      "high": 1632291.413
+    },
+    "5. Online size/fit return reduction": {
+      "low": 14686.988267062943,
+      "base": 24478.31377843824,
+      "high": 39165.30204550119
+    },
+    "6. Wholesale stockout recovery": {
+      "low": 90617.55436192606,
+      "base": 181235.1087238521,
+      "high": 271852.6630857782
+    }
+  },
+  "value_at_stake_total_base": 8784752.82135899
+}

@@ -1,0 +1,13 @@
+﻿Supplier_ID,Category,Contracted,OTD,Avg_Days_Late,Spend,Spend_Share,Reliability,Spend_Tier,Action
+SUP09,Trims,No,0.3460207612456747,3.6193771626297577,76331660.19,0.08627257219706579,Unreliable,High spend,Replace or dual-source; put under contract
+SUP04,Printing Consumables,Yes,0.398576512455516,2.9181494661921707,65328364.39,0.07383628260309816,Unreliable,Lower spend,"Escalate: enforce contract SLA / penalties, qualify backup"
+SUP12,Fabric,Yes,0.6677852348993288,0.5436241610738255,61850511.2,0.06990549766172231,Reliable,Lower spend,Monitor: tighten promised dates
+SUP06,Packaging,Yes,0.6794871794871795,0.4807692307692308,72353891.25,0.08177676590639699,Reliable,Lower spend,Monitor: tighten promised dates
+SUP08,Trims,No,0.689873417721519,0.49050632911392406,81631567.57000001,0.0922627031720857,Reliable,High spend,Monitor: tighten promised dates
+SUP07,Packaging,Yes,0.6925373134328359,0.4955223880597015,84758330.19,0.09579667391509825,Reliable,High spend,Monitor: tighten promised dates
+SUP01,Packaging,No,0.7025089605734767,0.4767025089605735,61340301.15,0.0693288413533867,Reliable,Lower spend,Maintain; formalise contract
+SUP03,Fabric,No,0.7216494845360825,0.3642611683848797,82890481.05,0.09368556891118811,Reliable,High spend,Maintain; formalise contract
+SUP05,Fabric,No,0.7239057239057239,0.39730639730639733,73873102.51,0.08349382882347102,Reliable,Lower spend,Maintain; formalise contract
+SUP11,Trims,Yes,0.7245901639344262,0.4459016393442623,76543735.69,0.08651226695595662,Reliable,High spend,Maintain / strategic partner
+SUP02,Trims,Yes,0.7272727272727273,0.42424242424242425,69784488.3,0.07887274153491777,Reliable,Lower spend,Maintain / strategic partner
+SUP10,Trims,Yes,0.74,0.38333333333333336,78086771.32000001,0.08825625696561268,Reliable,High spend,Maintain / strategic partner

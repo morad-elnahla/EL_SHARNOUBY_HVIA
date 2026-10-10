@@ -1,0 +1,6 @@
+﻿Location_ID,Location_Name,Location_Type,Channel,Governorate,City,Public_Address,Source_URL,Verification_Class
+LOC001,LEO MODA - Sidi Bishr Store,Retail Store,Retail,Alexandria,Sidi Bishr,"72C2+GXJ, Sidi Bishr Bahri, Montaza 2, Alexandria, Egypt",https://leo.moda/our-stores/,Public store / address cross-checked from public business listing
+LOC002,LEO MODA Online Store,Digital Store,Online,Egypt,Nationwide,Online - delivery across Egypt,https://leo.moda/,Public channel
+LOC003,El-Sharnouby Wholesale Desk,B2B / Wholesale,Wholesale,Alexandria,Zizinia,"5 Amin Yehia Street, Zizinia, Alexandria, Egypt",https://www.el-sharnouby.com/,Public HQ / wholesale inquiry channel
+LOC004,El-Sharnouby Head Office,Head Office,Corporate,Alexandria,Zizinia,"5 Amin Yehia Street, Zizinia, Alexandria, Egypt",https://www.el-sharnouby.com/,Public HQ
+LOC005,LEO Production Hub,Factory / Production,Operations,Alexandria,Alexandria,"Alexandria, Egypt",https://www.el-sharnouby.com/services,Public business unit; exact facility address not asserted
